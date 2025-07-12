@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1752324144699,
+      "studentName": "Eve Nguyen",
+      "studentClass": "Commodo est et cum q",
+      "rollNumber": "4"
+    },
+    {
+      "id": 1752324151386,
+      "studentName": "Scarlett Potter",
+      "studentClass": "Irure magnam minus a",
+      "rollNumber": "32"
+    },
+    {
+      "id": 1752324157503,
+      "studentName": "Catherine Schroeder",
+      "studentClass": "Commodi est rerum pe",
+      "rollNumber": "22"
+    },
+    {
+      "id": 1752324163691,
+      "studentName": "Ian Mcintosh",
+      "studentClass": "Eum est quaerat rer",
+      "rollNumber": "26"
+    },
+    {
+      "id": 1752324174248,
+      "studentName": "Burton Lopez",
+      "studentClass": "Et deserunt et obcae",
+      "rollNumber": "52"
+    },
+    {
+      "id": 1752324254728,
+      "studentName": "Kyra Duncan",
+      "studentClass": "Dolores non ut repre",
+      "rollNumber": "30"
+    },
+    {
+      "id": 1752324477771,
+      "studentName": "Blake Mitchell",
+      "studentClass": "Totam dolores non do",
+      "rollNumber": "27"
+    }
+  ]
+}
